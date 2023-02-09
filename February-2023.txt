@@ -1,1 +1,2 @@
 2023-02-05 21:43:18: Distance: 7.85 km, Time: 35.0 mins, Heart Rate: 179.2 bpm, Pace: 4.45859872611465 min/km, Benefits: 2.7475 calories
+2023-02-09 01:03:45: Distance: 12.8 km, Time: 52.0 mins, Heart Rate: 179.0 bpm, Pace: 4.0625 min/km, Benefits: 6.656000000000001 calories
